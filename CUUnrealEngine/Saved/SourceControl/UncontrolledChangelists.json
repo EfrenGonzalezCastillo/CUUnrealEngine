@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/M6/R0Z2ZTKOUQGE71HAL5NHU1.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/S2/VWQYPVHLPMGS4FJODF9VVI.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/5N/62E6JEBLKWBLPPZNRNGY9A.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/C8/4SD5WZQL02IF0ZH51XL05D.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/_GENERATED/goofy/Box_4D16202B.uasset"
+			]
+		}
+	]
+}
