@@ -17,7 +17,13 @@
 				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/C8/4SD5WZQL02IF0ZH51XL05D.uasset",
 				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/_GENERATED/goofy/Box_4D16202B.uasset",
 				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Inputs/IMC_Player1.uasset",
-				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Inputs/Jump.uasset"
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Inputs/Jump.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Animations/Crouch.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Animations/CrouchWalk.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Inputs/IA_Crouch.uasset",
+				"C:/Users/goofy/Github/CUUnrealEngine/CUUnrealEngine/Content/Input/IMC_Default.uasset"
 			]
 		}
 	]
