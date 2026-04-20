@@ -1,6 +1,21 @@
-[4384:21756:0416/174148.622:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4384:35788:0416/174148.932:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4384:21756:0416/174149.081:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11308:18860:0416/174203.607:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7265D972E16FB7CEB1E765CE8930A152 will be ignored
-[4384:21756:0416/174213.630:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension fheoggkfdfchfphceeifdbepaooicaho
-[4384:21756:0416/184135.597:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22268:26520:0419/175840.030:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22268:11880:0419/175840.126:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22268:26520:0419/175840.175:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11384:25504:0419/175847.189:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B835433EB71CC670A0148FCBC0C8FE9D will be ignored
+[22268:9196:0419/175847.345:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/175847.345:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/180856.949:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/192237.574:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/192237.574:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/192237.575:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/193049.160:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/193448.372:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/195042.776:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/195226.341:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/195324.083:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/204530.109:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/204530.110:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/204545.241:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/204545.241:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:9196:0419/212534.263:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22268:26520:0419/214107.035:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
